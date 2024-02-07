@@ -1,0 +1,10 @@
+obj\Debug\CalCulating.exe
+obj\Debug\CalCulating.xml
+obj\Debug\CalCulating.pdb
+bin\Debug\CalCulating.exe
+bin\Debug\CalCulating.pdb
+bin\Debug\CalCulating.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CalCulating.Form1.resources
+obj\Debug\CalCulating.Resources.resources
+obj\Debug\CalCulating.vbproj.GenerateResource.Cache

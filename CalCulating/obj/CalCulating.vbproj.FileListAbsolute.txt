@@ -1,0 +1,10 @@
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\CalCulating.exe
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\CalCulating.xml
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\CalCulating.pdb
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\bin\Debug\CalCulating.exe
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\bin\Debug\CalCulating.pdb
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\bin\Debug\CalCulating.xml
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\CalCulating.Form1.resources
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\CalCulating.Resources.resources
+D:\Source Utilities\Tutorial Program\CalCulating\CalCulating\obj\Debug\CalCulating.vbproj.GenerateResource.Cache
